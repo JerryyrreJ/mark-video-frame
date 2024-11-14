@@ -1,0 +1,9 @@
+# PyCharm
+.idea/
+
+# 其他常见的Python项目忽略项
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/ 
